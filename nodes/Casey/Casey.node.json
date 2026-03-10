@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-tellcasey.casey",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Developer Tools"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.tellcasey.com/api"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/AskCasey/n8n-nodes-tellcasey"
+			}
+		]
+	}
+}
